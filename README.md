@@ -39,8 +39,6 @@ Traditional methods are slow and less accurate, therefore in this project, we ai
 This project is developed using the **Paisabazaar dataset**.  
 
 ---
-## 🔗 GitHub Repository  
-[Click here to view the project](https://github.com/your_username/your_repo)  
 
 
 ## 🎯 Objectives  
@@ -121,7 +119,7 @@ The dataset used in this project contains customer demographic, financial, and b
   - `Standard`  
   - `Poor`  
 
-📂 **Dataset Location in Project Structure**:  
+📂 **Dataset is uploaded here.**:  
 
 ---
 
